@@ -23,3 +23,4 @@ You can also deploy the sample template for the application:
 `$ oc new-app -f https://raw.githubusercontent.com/sclorg/httpd-ex/master/openshift/templates/httpd.json`
 
 Sridhar Added this line on 03/23/2021
+Sridhar added this line for the second time on 03/23/2021
